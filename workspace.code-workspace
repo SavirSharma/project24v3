@@ -1,0 +1,34 @@
+{
+	"folders": [
+		{
+			"path": "../c23"
+		},
+		{
+			"path": "../c24"
+		},
+		{
+			"path": "../c25"
+		},
+		{
+			"path": "../project21"
+		},
+		{
+			"path": "../project22"
+		},
+		{
+			"path": "../project25"
+		},
+		{
+			"path": "../project23"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../c26"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "project24"
+	}
+}
